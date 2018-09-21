@@ -1,0 +1,30 @@
+_Football teams
+Manchester United
+Arsenal
+Chelsea
+Liverpool
+FC Bayern Munchen
+Juventus
+Real Madrid
+FC Barcelona
+Olympique de Marseille
+Paris Saint-Germain
+_Books
+In Search of Lost Time
+Don Quixote
+Ulysses
+The Great Gatsby
+Moby Dick
+Hamlet
+War and Peace
+The Odyssey
+_Programming principles
+Encapsulation
+Abstraction
+Inheritance
+Polymorphism
+KISS
+DRY
+Open Closed
+Single Responsibility
+Composition over inheritance
